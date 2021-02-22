@@ -1,12 +1,8 @@
-<img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/Violet_splash-V1.2?style=flat-square&label=&color=success&logo=GitHub&logoColor=white&labelColor=373e4d"/> 
-
 <p align="center">
   <img src="Other/Splash.png" width="75%"/>
 </p>
 
-<img alt="Repo Size" align="right" src="https://github-size-badge.herokuapp.com/13atm01/Violet_splash-V1.2.svg"/>
-
-## :art: Screenshot
+## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/Violet_splash-V1.2?style=flat-square&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/>
 
 ![SS](/Other/Splash_v1,2.png)
 
