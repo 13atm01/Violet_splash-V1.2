@@ -2,7 +2,7 @@
   <img src="Other/Splash.png" width="75%"/>
 </p>
 
-## :art: Screenshot <img alt="Visits" src="https://badges.pufler.dev/visits/13atm01/Violet_splash-V1.2?style=flat-square&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/>
+## :art: Screenshot <img alt="Visits" src="https://badges.strrl.dev/visits/13atm01/Violet_splash-V1.2?style=plastic&label=&color=8727D8&success&logo=GitHub&logoColor=white&labelColor=373e4d" align="right"/>
 
 ![SS](/Other/Splash_v1,2.png)
 
